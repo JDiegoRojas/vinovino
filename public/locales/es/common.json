@@ -1,11 +1,11 @@
 {
   "site_meta_data": {
-    "title": "Blog JDiego | Agroindustria, Datos y Tecnología",
-    "author": "JDiego Rojas",
-    "full_name": "Juan Diego Rojas Fermin",
-    "header_title": "El blog de JDiego - Agroindustria, Datos y Tecnología",
-    "footer_title": "El blog de JDiego - Agroindustria, Datos y Tecnología",
-    "description": "Blog personal de JDiego Rojas sobre Agroindustria, Datos y Tecnología",
+    "title": "Vinos del Valle | RUC: 202551256912",
+    "author": "Vinos del Valle",
+    "full_name": "Vinos del Valle",
+    "header_title": "El blog de JDiego",
+    "footer_title": "El blog de JDiego",
+    "description": "Blog sobre Vinos del Valle, catalogo y productos.",
     "language": "es"
   },
   "happy_reading": "Disfruta de la lectura...",
@@ -14,7 +14,7 @@
   "menu_projects": "Proyectos",
   "menu_about": "Sobre mi",
   "menu_resume": "Currículum",
-  "greeting_message": "Hola, amigos!",
+  "greeting_message": "Vinos del Valle",
   "introduction": "Soy",
   "name": "JDiego Rojas",
   "description": "estudiante de Ingeniería Agroindustrial en la Universidad Nacional de Trujillo VJ, además apasionado por la gestión de proyectos y ciencia de datos.",
